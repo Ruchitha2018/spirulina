@@ -9,7 +9,7 @@
 			<ul>	<!-- SLIDE  -->
 				<li data-index="rs-3204" data-transition="slideoververtical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="../../assets/images/news1-1-100x50.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="2000" data-fsslotamount="7" data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 					<!-- MAIN IMAGE -->
-					<img src="https://via.placeholder.com/1920x1080"  alt="image"  data-lazyload="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+					<img src="images/image_2.webp"  alt="image"  data-lazyload="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
 					<!-- LAYERS -->
 			
 					<!-- LAYER NR. 1 -->
@@ -141,7 +141,7 @@
 				<!-- SLIDE  -->
 				<li data-index="rs-3205" data-transition="slideoververtical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="../../assets/images/news2-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 					<!-- MAIN IMAGE -->
-					<img src="https://via.placeholder.com/1920x1080"  alt="image"  data-lazyload="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+					<img src="images/product_1.jpg"  alt="image"  data-lazyload="" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
 					<!-- LAYERS -->
 			
 					<!-- LAYER NR. 5 -->
@@ -339,6 +339,32 @@
 		</div>
 	</div>
 
+	<!--About Agriculture-->
+	<div class="clv_about_agriculture_wrapper clv_section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-lg-6">
+					<div class="about_agri_image">
+						<img src="images/image_2.webp" alt="image" />
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-6">
+					<div class="about_agri_content">
+						<h2>About Spirulina</h2>
+						<h6>Let your food be your medicine - Hippocrates</h6>
+						<p>Spirulina  is algae grown  in salinated water.
+							It is rich in proteins (60-70 %), minerals, iron, calcium, vitamins.
+						   It has all essential amino acid & fatty acids. It has GLA (Gammalinolenic Acid) which is very useful fatty acid for body. 
+						   It is potent anti-inflammatory food, it has antiallergy properpes, it boost immunity, promote growh, metabolism, decreases cholestrol & also helps to loose weight prevent hairfall. 
+						   Also, it has excellent antioxidant activity than any food or drug. 
+						   </p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
 	<!--Team-->
 	<div class="agri_team_wrapper clv_section">
 		<div class="container">
