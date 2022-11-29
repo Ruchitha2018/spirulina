@@ -11489,3 +11489,13 @@ ul{
   html {
 	scroll-behavior: smooth !important;
   }
+
+@media(max-width: 768px) {
+	div#slide-3205-layer-1 {
+		padding-right: 50% !important;
+	}
+	div#slide-3204-layer-3 {
+		margin-top: 40px !important;
+		line-height: 40px !important;
+	}
+}
