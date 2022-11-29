@@ -81,6 +81,9 @@ ul{
 	padding: 0;
 	list-style: none;
 }
+.service_block > img{
+	width: 100%;
+}
 .container{
 	max-width: 1200px;
 }
@@ -7264,7 +7267,7 @@ ul{
 	color: #ffffff;
 }
 .blog_single_heading{
-	margin-bottom: 60px;+
+	margin-bottom: 60px;
 }
 .blog_single_heading h3{
 	color: #222222;

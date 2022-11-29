@@ -1,17 +1,19 @@
 <section class = "footer">
     <div class = "overlay">
         <div class = "container">
-            <h3 class = "text-center"><b>FINE EXTRUSION TECHNIK PRIVATE LIMITED</b></h3><br>
+            <h3 class = "text-center"><b>DAKSHRAJ NG BIOMASS PVT LTD</b></h3><br>
             <div class = "row">
                 <div class = "col-md-1"></div>
                 <div class = "col-md-3">
                     <img src = "<?php echo base_url();?>images/qr-code.png" width="100%">
                 </div>
                 <div class = "col-12 col-md-7">
-                    <h6><i class = "fa fa-map-marker"></i>&nbsp;Gat No: 1311, Near New Sakal Press, Saswad Pune Road Wadki Pune - 412308</h6>
+                    <h6><i class = "fa fa-map-marker"></i>&nbsp;
+                    Spirulina Manufacturing Plant: Survey No 394/1, Suralwadi, Near Yadnya Bhoomi, Gangakhed(Ta), Parbhani(Dist)
+                </h6>
 
                     <h6><i class="fa fa-phone" aria-hidden="true"></i>
-                        &nbsp;(+91) 9505517663</h6>
+                        &nbsp;02453-221531</h6>
                     <h6><i class="fa fa-envelope" aria-hidden="true"></i>
                         &nbsp;contact@fineextrusiontechnik.com</h6>
                     <h6><i class="fa fa-globe" aria-hidden="true"></i>
@@ -21,7 +23,7 @@
             <hr>
             <div class = "row">
               <div class = "col-md-12">
-                <p>&copy; Copyright &copy; Fine Extrusion Technik Private Ltd. All Rights Reserved</p>  
+                <p>&copy; Copyright &copy; DAKSHRAJ NG BIOMASS PVT LTD. All Rights Reserved</p>  
               </div>
             </div>
         </div>
