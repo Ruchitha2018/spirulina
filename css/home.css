@@ -61,7 +61,6 @@
 }
 .section-splash h1{
     font-size: 55px;
-    font-family: 'Roboto Condensed', sans-serif;
     text-align: left;
 }
 .section-splash .btn{
@@ -244,7 +243,6 @@
     width: 100%;
     padding-top: 45px;
     color:white;
-    font-family: 'Roboto Condensed', sans-serif;
 }
 .footer h6{
     padding-top: 15px;

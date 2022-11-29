@@ -66,7 +66,7 @@
 		</div><!-- END REVOLUTION SLIDER -->
 	</div>
 	<!--Revolution Silder-->
-	<div class="org_service_wrapper clv_section">
+	<div class="org_service_wrapper clv_section" id="products">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-md-4">
@@ -134,15 +134,15 @@
 			</div>
 		</div>
 	</div>
-	<div class="product_detail_wrapper">
+	<div class="product_detail_wrapper" id="about">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-12 text-center">
-					<h1>About Spirulina</h1>
+				<div class="col-lg-12 text-center main-heading">
+					<h1 class="">About Spirulina</h1>
 					<img src="images/org_underline2.png" alt="image">
 				</div>
 				<div class="col-lg-12 col-md-12">
-					<div class="clv_about_agriculture_wrapper clv_section">
+					<div class="clv_about_agriculture_wrapper">
 						<div class="container">
 							<div class="row">
 								<div class="col-md-6 col-lg-6">
@@ -169,97 +169,103 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12 text-center">
+				<div class="col-lg-12 text-center main-heading">
 					<h1>Spirulina - Benefits and Uses</h1>
 					<img src="images/org_underline2.png" alt="image">
 				</div>
 				<div class="col-lg-12 col-md-12">
 					<div class="product_detail_tab">
 						<ul class="nav nav-tabs">
-							<li><a data-toggle="tab" class="active" href="#description">English</a></li>
-							<li><a data-toggle="tab" href="#info">Hindi</a></li>
-							<li><a data-toggle="tab" href="#review">Marathi</a></li>
+							<li><a data-toggle="tab" class="active" href="#english">English</a></li>
+							<li><a data-toggle="tab" href="#hindi">Hindi</a></li>
+							<li><a data-toggle="tab" href="#marathi">Marathi</a></li>
 						</ul>
 						<div class="tab-content">
-							<div id="description" class="tab-pane fade show active">
+							<div id="english" class="tab-pane fade show active">
 								<p>
-								Eating of spirulina is extremely beneficial as the food we eat nowadays does not provide all
-the nutrients that our body needs. It is rich in proteins 60 to 75%, minerals, vitamins, antioxidants and iron, so NASA & WHO has called it as Super Food. As it is rich in nutrients and easy to carry, astronauts complete their missions by eating spirulina.
- Spirulina is potent anti-inflammatory, potent antioxidant, potent antiallergic. Here are few more benefits and uses of Spirulina:
+									Eating of spirulina is extremely beneficial as the food we eat nowadays does not provide all
+									the nutrients that our body needs. It is rich in proteins 60 to 75%, minerals, vitamins, antioxidants and iron, so NASA & WHO has called it as Super Food. As it is rich in nutrients and easy to carry, astronauts complete their missions by eating spirulina.
+									Spirulina is potent anti-inflammatory, potent antioxidant, potent antiallergic. Here are few more benefits and uses of Spirulina:
 								</p>
-								1. Always getting sick, repeated infections, & weak immunity, it boosts immunity.\n
-2. General Weakness, feeling lack of energy, limb pain.\n
-3. Persistent Allergic Cold\n
-4. Anemia\n
-5. To reduce body fat & cholesterol\n
-6. prevent cancer, as it is extremely rich in antioxidants\n
-7. To reduce various types of inflammations in the body.\n
-8. Prevent hypertension & Diabetes\n
-9. To lose weight, increases metabolism and maintain healthy appetite\n
-10. Removes toxins and harmful substances from the body and protects the liver\n
-11. Increases memory.\n
-12. Improves vision.\n
-13. Stops the growth of HIV.\n
-14. Reduces the risk of paralysis and seizures.\n
-15. Reduces stress and prevents depression.\n
-16. Antiaging, maintain skin glow& texture.\n
-17. To get calcium, vitamin K, E as well as abundant protein.\n
-18. Prevent growth retardation in young children & prevent malnutrituion.\n
-19. Disorders of digestive system, relieves constipation & Gases trouble.\n
-20. Prevent Hairfall.\n
-							</div>
-							<div id="info" class="tab-pane fade">
-								<ul class="additional_info">
-								स्पिरुलिना के उपयोग एंवम लाभ      \n
-\n
-स्पिरुलिना खाना बेहद फायदेमंद है क्योंकी आजकाल हम जो खान खाते हैं वह हमारे शरीर को सभी \n
-पोषक तत्व प्रदान नहीं करता| नासा और जागतिक अरोग्य संघटन ने इसे सुपर फुट करार दिया है क्योंकी यह पोषक तत्वें से \n
-भरपूर है और अंतरिक्ष यात्री स्पिरुलिना खाकर अपने मिशन को अंजाम देते हैं|\n
-१ ) हमेशा बीमार रहना. बारबार, जंतुसंक्रम, इन्फेक्शन व रोग प्रतिकिरक क्षमता कि कमी| यह इम्युनिटी बढता है \n
-२) कमजोरी, गलावट, थकान, हमेशा बदनदर्द, हाथपांव दुःखाना \n
-३) लगातार एलर्जी जुकाम \n
-४) खुन की कमी अनेमिया \n
-५) शरीर की चर्बी को कम करने के लिए तथा कोलेस्टेरॉल घटाने के लिए \n
-६) कैन्सर कर्क रोग न हो इस हेतू यह ऑन्टी औंक्सिडेन्ट से भरपूर .है \n
-७) शरीर में विभिन्न प्रकार कि सुजन को कम करने के लिए|\n
-८) बीपी और शुगर नाहीं बढाना चाहिए|\n
-९) वजन कम करने के लिए| यह मेटाबालिझम बढाता है|\n
-१०) शरीर से विषारी पदार्थो और हानिकारक पदार्थो को निकालता है और लिव्हर की रक्षा करता है|\n
-११। याददाश बढाता है|\n
-१२। द्रुष्टी में सुधार \n
-१३) एचआईवी के मिरगी के दौर रोकता है|\n
-१४) पक्षाघात और दौर की संभावना कम करता है|\n
-१५) तणाव कम करता है और अवसाद को रोकता है \n
-१६) उम्र नहीं देखनी चाहिए स्किन ग्लोईंग  रखता है \n
-१७) कैल्शियम, विटामिन के, ई के साथ-साथ भरपूर मात्रा में प्रोटीन प्राप्त करने के लिए \n
-१८) छोटे बच्चे के विकास वृध्दी  में रुकावट न आए \n
-१९) बाल झडना रोकने के लिए \n
-२०) पाचन संस्था की समस्थाए, गॅस एवं कब्ज\n
+								<ol>
+									<li>Always getting sick, repeated infections, & weak immunity, it boosts immunity.</li>
+									<li>General Weakness, feeling lack of energy, limb pain.</li>
+									<li>Persistent Allergic Col.</li>
+									<li>Anemi.</li>
+									<li>To reduce body fat & cholestero.</li>
+									<li>prevent cancer, as it is extremely rich in antioxidant.</li>
+									<li>To reduce various types of inflammations in the body.</li>
+									<li>Prevent hypertension & Diabete.</li>
+									<li>To lose weight, increases metabolism and maintain healthy appetit.</li>
+									<li> Removes toxins and harmful substances from the body and protects the live.</li>
+									<li> Increases memory.</li>
+									<li> Improves vision.</li>
+									<li> Stops the growth of HIV.</li>
+									<li> Reduces the risk of paralysis and seizures.</li>
+									<li> Reduces stress and prevents depression.</li>
+									<li> Antiaging, maintain skin glow& texture.</li>
+									<li> To get calcium, vitamin K, E as well as abundant protein.</li>
+									<li> Prevent growth retardation in young children & prevent malnutrituion.</li>
+									<li> Disorders of digestive system, relieves constipation & Gases trouble.</li>
+									<li> Prevent Hairfall.</li>
+								</ol>
 
+							</div>
+							<div id="hindi" class="tab-pane fade">
+								<h3 class="text-center">स्पिरुलिना के उपयोग एंवम लाभ <br></h3>
+								<ul>
+
+									स्पिरुलिना खाना बेहद फायदेमंद है क्योंकी आजकाल हम जो खान खाते हैं वह हमारे शरीर को सभी
+									पोषक तत्व प्रदान नहीं करता| नासा और जागतिक अरोग्य संघटन ने इसे सुपर फुट करार दिया है क्योंकी यह पोषक तत्वें से
+									भरपूर है और अंतरिक्ष यात्री स्पिरुलिना खाकर अपने मिशन को अंजाम देते हैं|<br><br>
+									<li>१) हमेशा बीमार रहना. बारबार, जंतुसंक्रम, इन्फेक्शन व रोग प्रतिकिरक क्षमता कि कमी| यह इम्युनिटी बढता है </li>
+									<li>२) कमजोरी, गलावट, थकान, हमेशा बदनदर्द, हाथपांव दुःखाना </li>
+									<li>३) लगातार एलर्जी जुकाम </li>
+									<li>४) खुन की कमी अनेमिया </li>
+									<li>५) शरीर की चर्बी को कम करने के लिए तथा कोलेस्टेरॉल घटाने के लिए </li>
+									<li>६) कैन्सर कर्क रोग न हो इस हेतू यह ऑन्टी औंक्सिडेन्ट से भरपूर .है </li>
+									<li>७) शरीर में विभिन्न प्रकार कि सुजन को कम करने के लिए|</li>
+									<li>८) बीपी और शुगर नाहीं बढाना चाहिए|</li>
+									<li>९) वजन कम करने के लिए| यह मेटाबालिझम बढाता है|</li>
+									<li>१०) शरीर से विषारी पदार्थो और हानिकारक पदार्थो को निकालता है और लिव्हर की रक्षा करता है|</li>
+									<li>११। याददाश बढाता है|</li>
+									<li>१२। द्रुष्टी में सुधार </li>
+									<li>१३) एचआईवी के मिरगी के दौर रोकता है|</li>
+									<li>१४) पक्षाघात और दौर की संभावना कम करता है|</li>
+									<li>१५) तणाव कम करता है और अवसाद को रोकता है </li>
+									<li>१६) उम्र नहीं देखनी चाहिए स्किन ग्लोईंग रखता है </li>
+									<li>१७) कैल्शियम, विटामिन के, ई के साथ-साथ भरपूर मात्रा में प्रोटीन प्राप्त करने के लिए </li>
+									<li>१८) छोटे बच्चे के विकास वृध्दी में रुकावट न आए </li>
+									<li>१९) बाल झडना रोकने के लिए </li>
+									<li>२०) पाचन संस्था की समस्थाए, गॅस एवं कब्ज</li>
 								</ul>
 							</div>
-							<div id="review" class="tab-pane fade">
-							paoYak GaTkaMnaI samaRQd Asao spI$ilanaa ka #aavao: \n
-Aajakala AapNa jao Anna #aatao to Aaplyaa SarIrasa AavaSyak sava- paoYakGaTk dot naahI %yaamaULo spI$laInaa #aaNao A%yaMt fayadoSaIr Aaho. paoYakGaTkMaNaI samaRQd\ AsalyaamaULo naasaanao yaalaa saupr fuT saMbaaoQalao Aaho va AMatraLvaIr ho spI$laInaa #aavaunaca AaplaI maaohImaa par paDtat.\n
-1.naohmaI AajaarI pDNao Jnafo@Sana jaMtUsaMsaga- haoNao raogap`itkark Sa@tI kmaI  AsaNao.\n
-2.ASa@tpNaa kmajaaorI hatpaya AMgaduKI gaLuna jaaNao \n
-3 ,satt haoNaarI AlajaI-caI sadI- saayanasacaa Haasa \n
-4. r@t kmaI AsaNao haoNao \n
-5. SarIratIla carbaI kaolaosTala kmaI krNyaasaazI \n
-6. k^nsar haovaUnayaomhNauna \n
-7. SarIratIla ivaivaQa p`karcaI sauja kmaI krNyaasaazI \n
-8. baIpI va saugar saa#ar vaaZu nayao mhNauna \n
-9. vajana kmaI krNyaasaazI\n
-10. ivaYaarI va hanaIkark t%va GaTk SairratUuna kaZuna Takto va ilavhrcao rxaNa krto \n
-11. smarNaSa@tI vaaZvato \n
-12. dRYTI sauQaarto\n
-13. ecaAayavhIcaI vaaZ qaaMbavato\n
-14.p^ralaosaIsa va A^Tkcaa Qaaoka kmaI krto \n
-15. taNatNaava kmaI krto va iDp` oSana p`itbaMQak\n
-16. vaya idsau nayao vaarQa@ya yaovau nayao mhNauna A@TI yaojaIga\n
-17. k^lasaIyama ivaTamaIna ko, [- tsaoca maubalak p`aoTIna iMmaLvaNyaasaazI\n
-18.lahana maulaaMmaQyao vaaZ KuMTu nayao mhNauna\n
+							<div id="marathi" class="tab-pane fade">
+								<h3 class="devagiri-font text-center"><b>paoYak GaTkaMnaI samaRQd Asao spI$ilanaa ka #aavao:</b> </h3><br><br>
+								<ol  class="devagiri-font">
 
+									paoYak GaTkaMnaI samaRQd Asao spI$ilanaa ka #aavao:
+									Aajakala AapNa jao Anna #aatao to Aaplyaa SarIrasa AavaSyak sava- paoYakGaTk dot naahI %yaamaULo spI$laInaa #aaNao A%yaMt fayadoSaIr Aaho. paoYakGaTkMaNaI samaRQd\ AsalyaamaULo naasaanao yaalaa saupr fuT saMbaaoQalao Aaho va AMatraLvaIr ho spI$laInaa #aavaunaca AaplaI maaohImaa par paDtat.<br><br>
+
+									<li>naohmaI AajaarI pDNao Jnafo@Sana jaMtUsaMsaga- haoNao raogap`itkark Sa@tI kmaI AsaNao.</li>
+									<li>ASa@tpNaa kmajaaorI hatpaya AMgaduKI gaLuna jaaNao </li>
+									<li>,satt haoNaarI AlajaI-caI sadI- saayanasacaa Haasa </li>
+									<li> r@t kmaI AsaNao haoNao </li>
+									<li> SarIratIla carbaI kaolaosTala kmaI krNyaasaazI </li>
+									<li> k^nsar haovaUnayaomhNauna </li>
+									<li> SarIratIla ivaivaQa p`karcaI sauja kmaI krNyaasaazI </li>
+									<li> baIpI va saugar saa#ar vaaZu nayao mhNauna </li>
+									<li> vajana kmaI krNyaasaazI</li>
+									<li> ivaYaarI va hanaIkark t%va GaTk SairratUuna kaZuna Takto va ilavhrcao rxaNa krto </li>
+									<li> smarNaSa@tI vaaZvato </li>
+									<li> dRYTI sauQaarto</li>
+									<li> ecaAayavhIcaI vaaZ qaaMbavato</li>
+									<li>p^ralaosaIsa va A^Tkcaa Qaaoka kmaI krto </li>
+									<li> taNatNaava kmaI krto va iDp` oSana p`itbaMQak</li>
+									<li> vaya idsau nayao vaarQa@ya yaovau nayao mhNauna A@TI yaojaIga</li>
+									<li> k^lasaIyama ivaTamaIna ko, [- tsaoca maubalak p`aoTIna iMmaLvaNyaasaazI</li>
+									<li>lahana maulaaMmaQyao vaaZ KuMTu nayao mhNauna</li>
+</ol>
 							</div>
 						</div>
 					</div>
@@ -268,79 +274,89 @@ Aajakala AapNa jao Anna #aatao to Aaplyaa SarIrasa AavaSyak sava- paoYakGaTk dot
 		</div>
 	</div>
 	<!--Team-->
-	<div class="agri_team_wrapper clv_section">
+	<div class="agri_blog_wrapper clv_section" id="team">
 		<div class="container">
-			<div class="row">
-				<div class="col-md-3 col-lg-3">
-					<div class="agri_team_content">
-						<h3>expert team</h3>
-						<span><img src="images/agri_underline3.png" alt="image" /></span>
-						<p>Consectetur adipisicing elit sed do smod tempor incididunt ut labore.</p>
+			<div class="row justify-content-center">
+				<div class="col-lg-6 col-md-6">
+					<div class="clv_heading">
+						<h3>About Us</h3>
+						<!-- <div class="clv_underline"><img src="images/agri_underline2.png" alt="image" /></div> -->
 					</div>
 				</div>
-				<div class="col-md-9 col-lg-9">
-					<div class="agri_team_section">
-						<div class="row">
-							<div class="col-md-4">
-								<div class="agri_team_block">
-									<div class="agri_team_image">
-										<img src="https://via.placeholder.com/270x353" alt="image" />
+			</div>
+			<div class="agri_blog_inner">
+				<div class="row">
+					<div class="col-lg-6 col-md-6">
+						<div class="blog_section">
+							<div class="agri_blog_image">
+								<img src="./images/hospital_building.jpg" alt="image" />
+								<span class="agri_blog_date">INSTITUTION</span>
+								
+
+
+							</div>
+							
+							<div class="agri_blog_content">
+								<h3><a>GODAVARI HOSPITAL</a></h3>
+								<hr/>
+								<div class="blog_user">
+									<div class="user_name">
+										<img src="./images/phone_icon.png" alt="image" />
+										<a href="javascript:;"><span>8669621561</span></a>
 									</div>
-									<div class="agri_team_overlay">
-										<h4>rouis r. weons</h4>
-										<span>commercial farmer</span>
-										<p>you can join us</p>
-										<ul>
-											<li><a href="javascript:;"><span><i class="fa fa-facebook" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-twitter" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-linkedin" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-youtube-play" aria-hidden="true"></i></span></a></li>
-										</ul>
+									<div class="user_name">
+									<img src="./images/marker_icon.png" alt="image" />
+										<a href="https://maps.app.goo.gl/XZRw8maqBNCk4FCo6" target="_blank"><span>Click Here</span></a>
 									</div>
 								</div>
+								<p> GODAVARI HOSPITAL, Near Kamal Chitra Mandir,
+ICICI Bank, Yogeshwar Colony, Gangakhed (EST 2005)</p><br/>
+<h6><b>SERVICES:</b></h6>
+<ol> 	
+<li>NATURAL & SAFE BIRTH/LABOUR</li>
+<li>CAESARIAN SECTION (LSCS) FOR GENUINE INDICATION</li>
+<li>LEGAL ABORTION UPTO 12 WEEKS</li>
+<li>HYSTRECTOMIES ABDOMINAL & VAGINAL ,NONDESCEND VAGINAL</li>
+<li>CERVICA ENCIRLCLAGE</li>
+<li>TUBECTOMY</li>
+  <li> CONTRACEPTIONS</li>
+
+</ol>
 							</div>
-							<div class="col-md-4">
-								<div class="agri_team_block">
-									<div class="agri_team_image">
-										<img src="https://via.placeholder.com/270x353" alt="image" />
-									</div>
-									<div class="agri_team_overlay">
-										<h4>rouis r. weons</h4>
-										<span>commercial farmer</span>
-										<p>you can join us</p>
-										<ul>
-											<li><a href="javascript:;"><span><i class="fa fa-facebook" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-twitter" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-linkedin" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-youtube-play" aria-hidden="true"></i></span></a></li>
-										</ul>
-									</div>
+						</div>
+					</div>
+					<div class="col-lg-6 col-md-6">
+						<div class="right_blog_section">
+						<div class="right_blog_block">
+								<div class="right_blog_image">
+								<img src="<?php echo base_url(); ?>images/nagargoje_sir.jpg">
+
+								</div>
+								<div class="right_blog_content">
+									<span class="agri_blog_date">MBBS DGO</span>
+									<h3><a>Dr.Dilip Nagargoje</a></h3>
+									<p>Consultant Gynaecologist & obstetrician </p>
 								</div>
 							</div>
-							<div class="col-md-4">
-								<div class="agri_team_block">
-									<div class="agri_team_image">
-										<img src="https://via.placeholder.com/270x353" alt="image" />
-									</div>
-									<div class="agri_team_overlay">
-										<h4>rouis r. weons</h4>
-										<span>commercial farmer</span>
-										<p>you can join us</p>
-										<ul>
-											<li><a href="javascript:;"><span><i class="fa fa-facebook" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-twitter" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-linkedin" aria-hidden="true"></i></span></a></li>
-											<li><a href="javascript:;"><span><i class="fa fa-youtube-play" aria-hidden="true"></i></span></a></li>
-										</ul>
-									</div>
+							<div class="right_blog_block">
+								<div class="right_blog_image">
+								<img src="<?php echo base_url(); ?>images/nagargoje_madam.jpg">
+
+
+								</div>
+								<div class="right_blog_content">
+									<span class="agri_blog_date">BHMS</span>
+									<h3><a>Dr Archana Dilip Nagargoje</a></h3>
+									<p>Vice-Chairman,
+											Dakshraj Ng Biomass Pvt Ltd </p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+			
 		</div>
 	</div>
-	<!--Partners-->
 
 	</div>

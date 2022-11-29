@@ -26,7 +26,8 @@
  <meta name="MobileOptimized" content="320">
  <!--Start Style -->
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-
+ <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
  <link rel="stylesheet" type="text/css" href="css/font.css">
  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
  <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
@@ -178,7 +179,7 @@
 										</span>
 										<div class="header_location">
 											<h5>email address</h5>
-											<p>godavari@example.com</p>
+											<p>dakshraj@gmail.com</p>
 										</div> 
 									</div>
 								</div>
@@ -188,18 +189,16 @@
 							<div class="clv_menu_nav">
 								<ul>
 									<li><a href="javascript:;">Home</a></li>
-									<li><a href="about.html">About Spirulina</a></li>
-									<li><a href="service.html">Our Products</a></li>
-									<li><a href="service.html">Our Institution</a></li>
-									<li><a href="gallery.html">gallery</a></li>
-									<li><a href="contact.html">contact us</a></li>
+									<li><a href="#about">About Spirulina</a></li>
+									<li><a href="#products">Our Products</a></li>
+									<li><a href="#team">Our Institution</a></li>
+									<li><a href="">gallery</a></li>
+									<li><a href="#footer">contact us</a></li>
 								</ul>
 							</div>
 							<div class="cart_nav">
 								<ul>
-									<li>
-										<a class="search_toggle" href="javascript:;"><i class="fa fa-search" aria-hidden="true"></i></a>
-									</li>
+								
 									<li class="menu_toggle">
 										<span>
 											<?xml version="1.0" encoding="iso-8859-1"?>

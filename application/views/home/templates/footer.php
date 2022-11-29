@@ -1,4 +1,4 @@
-<section class = "footer">
+<section class = "footer" id="footer">
     <div class = "overlay">
         <div class = "container">
             <h3 class = "text-center"><b>DAKSHRAJ NG BIOMASS PVT LTD</b></h3><br>
@@ -15,9 +15,9 @@
                     <h6><i class="fa fa-phone" aria-hidden="true"></i>
                         &nbsp;02453-221531</h6>
                     <h6><i class="fa fa-envelope" aria-hidden="true"></i>
-                        &nbsp;contact@fineextrusiontechnik.com</h6>
+                        &nbsp;dakshraj@gmail.com</h6>
                     <h6><i class="fa fa-globe" aria-hidden="true"></i>
-                        &nbsp;https://fineextrusiontechnik.com/</h6>
+                        &nbsp;https://dakshraj.com/</h6>
                 </div>
             </div>
             <hr>

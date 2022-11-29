@@ -51,10 +51,14 @@ Purchase:
 /********************************************************
 1. body start
  *******************************************************/
+ @font-face {
+	font-family: "Shivaji01";
+	src: url("../fonts/Shivaji01.ttf"); 
+  }
  body{
 	padding: 0;
 	margin: 0;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #757575;
 	font-size:15px;
 	line-height:1.5;
@@ -73,7 +77,7 @@ a, a:hover, a:focus{
 	outline: none;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
-	font-family: 'Source Sans Pro', sans-serif;
+	/*  */
 	margin: 0;
 }
 ul{
@@ -274,8 +278,8 @@ ul{
 	margin: 0;
 	color: #707070;
 	font-weight: 500;
-	font-size: 15px;
-	line-height: 35px;
+	font-size: 13px;
+	line-height: 20px;
 } 
 .clv_right_header .clv_menu {
     background-color: #fec007;
@@ -302,7 +306,7 @@ ul{
 	padding: 5px 10px;
 	text-transform: capitalize;
 	position: relative;
-	font-family: 'Source Sans Pro', sans-serif;
+	/*  */
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
 }
 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a:after{
@@ -350,7 +354,6 @@ ul{
 	font-weight: 400;
 	padding: 5px 10px;
 	text-transform: capitalize;
-	font-family: 'Source Sans Pro', sans-serif;
 	width: 100%;
 	position: relative;
 	transition: all 0.3s ease-in-out;-webkit-transition: all 0.3s ease-in-out;-moz-transition: all 0.3s ease-in-out;
@@ -554,7 +557,6 @@ ul{
 	color: #3d3d3d;
 	text-transform: capitalize;
 	font-size: 18px;
-	font-family: 'Source Sans Pro', sans-serif;
 	text-align: center;
 	font-weight: 500;
 	margin: 0;
@@ -571,7 +573,6 @@ ul{
 .clv_cart_box > .cart_section > ul > li > .cart_block > h5{
 	margin: 0px 0px 5px;
 	text-transform: capitalize;
-	font-family: 'Lato', sans-serif;
 	font-size: 18px; 
 	font-weight: 600;
 	color: #222222;
@@ -614,7 +615,7 @@ ul{
 .clv_cart_box > .cart_section > ul > li > h3{
 	font-size: 18px;
 	font-weight: 600;
-	font-family: 'Lato', sans-serif;
+	
 	color: #222222;
 	width: 75%;
 	text-transform: capitalize;
@@ -1910,7 +1911,7 @@ ul{
 .clv_footer_wrapper .footer_block h6{
 	text-transform: uppercase;
 	color: #fec007;
-	font-family: 'Lato', sans-serif;
+	
 	font-weight: 600;
 	margin-bottom:8px;
 }
@@ -2050,7 +2051,6 @@ ul{
 	border-radius: 50px;
 	position: absolute;
 	left: 0;
-	bottom: -40px;
 	width: 100%;
     padding-left: 65px;
 	z-index: 10;
@@ -2305,7 +2305,7 @@ ul{
 	position: relative;
 	background: url('../images/about_agri_bg.jpg') no-repeat center;
 	background-size: cover;
-	padding-bottom: 140px;
+	padding-bottom: 100px;
 }
 .clv_about_agriculture_wrapper .about_agri_image{
 	position: relative;
@@ -2341,7 +2341,7 @@ ul{
 	font-size: 20px;
 	text-transform: capitalize;
 	color: #222222;
-	font-family: 'Lato', sans-serif;
+	
 	margin-bottom: 23px;
 }
 .clv_about_agriculture_wrapper .about_agri_content .auth_sign_block{
@@ -2376,7 +2376,7 @@ ul{
 .clv_about_product .about_product_contect > h6{
 	font-size: 20px;
 	color: #1fa12e;
-	font-family: 'Lato', sans-serif;
+	
 	margin-bottom: 19px;
 }
 .clv_about_product .about_product_contect .about_product_contact{
@@ -2733,7 +2733,7 @@ ul{
 	left: 35px;
 	display: flex;
 	align-items: center;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	justify-content: center;
 	text-transform: capitalize;
 	width: 150px;
@@ -2829,7 +2829,7 @@ ul{
 .right_blog_section .right_blog_block .right_blog_content .agri_blog_date{
 	font-size: 18px;
 	font-weight: 700;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	color: #1fa12e;
 	display: inline-block;
     text-transform: capitalize;
@@ -3351,7 +3351,7 @@ ul{
 	font-size: 18px;
 	font-weight: 700;
 	color: #ffffff;
-	font-family: 'Lato', sans-serif;
+	
 	text-transform: capitalize;
 }
 /*Dairy About End*/
@@ -4017,7 +4017,7 @@ ul{
 	border-bottom-color: #2a7d2e;
 }
 .index_v4 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a{
-	font-family: 'Source Sans Pro', sans-serif;
+	
 }
 .index_v4 .clv_right_header > .clv_menu > .cart_nav > ul > li:last-child:before{
 	display: none;
@@ -4289,7 +4289,7 @@ ul{
 	margin-bottom: 10px;
 }
 .garden_about_wrapper .garden_about_section .garden_about_content h6{
-	font-family: 'Lato', sans-serif;
+	
 	font-size: 20px;
 	color: #2a7d2e;
 	line-height: 30px;
@@ -4845,7 +4845,7 @@ ul{
 	display: inline-block;
 	padding: 10px 0px;
 	position: relative;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 }
 .project_nav ul > li > div.list_dots{
 	position: absolute;
@@ -5276,7 +5276,7 @@ ul{
 }
 .index_v5 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a{
 	color: #222222;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 }
 .index_v5 .clv_right_header .clv_menu .cart_nav > ul > li{
 	position: relative;
@@ -5405,7 +5405,7 @@ ul{
 }
 .org_left_service{
 	border-radius: 10px 0px 0px 10px;
-	background-color: #27ae93;
+	background-color: #3ba863;
 	padding: 32px 40px 31px;
 	text-align: center;
 }
@@ -5797,7 +5797,7 @@ ul{
 	text-transform: capitalize;
 }
 .org_testimonial_message > h5 > span{
-	font-family: 'Lato', sans-serif;
+	
 	font-size: 15px;
 	font-weight: 400;
 	color: #707070;
@@ -6022,7 +6022,7 @@ ul{
 .index_v6 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a{
 	color: #000000;
 	font-size: 16px;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 }
 .index_v6 .clv_right_header .clv_menu .clv_menu_nav > ul > li > a:after{
 	background-color: #000000;
@@ -6537,7 +6537,7 @@ ul{
 	position: relative;
 	z-index: 1;
 	display: inline-block;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	float: left;
 	margin: 0;
 	width: 90px;
@@ -6769,7 +6769,7 @@ ul{
 }
 .footer_post_section .footer_post_slide > .blog_links > p{
 	color: #222222; 
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	font-weight: 600;
 }
 .index_v6 .footer_block > p > span {
@@ -6813,7 +6813,7 @@ ul{
 }
 .index_v6 .footer_post_section .footer_post_slide > .blog_links > a{
 	color: #ffc539;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 }
 .index_v6 .footer_post_section .footer_post_slide > span{
 	color: #222222;
@@ -7086,13 +7086,13 @@ ul{
 .sidebar_post ul li .post_content p{
 	margin: 0;
 	font-size: 14px;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	text-transform: capitalize;
 	color: #1fa12e;
 }
 .sidebar_post ul li .post_content a{
 	font-size: 15px;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	font-weight: 600;
 }
 .sidebar_tags ul li{
@@ -7532,7 +7532,7 @@ ul{
 	font-size: 32px;
 	font-weight: 700;
 	text-transform: capitalize;
-	font-family: 'Lato', sans-serif;
+	
 	color: #ffffff;
 }
 #map{
@@ -8094,6 +8094,7 @@ ul{
 .product_detail_tab > .nav-tabs{
 	border: none;
 	margin-bottom: 30px;
+	justify-content: center;
 }
 .product_detail_tab > ul > li{
 	margin: 0px 10px;
@@ -8252,7 +8253,7 @@ ul{
 .checkout_submit > a{
 	color: #222222;
 	font-size: 16px;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	text-transform: capitalize;
 	transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -8299,7 +8300,7 @@ ul{
 }
 .product_quantity h6{
 	font-size: 18px;
-	font-family: 'Lato', sans-serif;
+	
 	font-weight: 600;
 	color: #222222;
 	text-transform: capitalize;
@@ -8315,7 +8316,7 @@ ul{
 }
 .total_amount > h4{
 	font-size: 18px;
-	font-family: 'Lato', sans-serif;
+	
 	font-weight: 600;
 	color: #222222;
 	text-transform: capitalize;
@@ -8325,7 +8326,7 @@ ul{
 	color: #fec007;
 	text-align: center;
 	font-size: 18px;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	text-decoration: underline;
 	display: block;
 }
@@ -8395,7 +8396,7 @@ ul{
 	text-align: center;
 	font-size: 18px;
 	text-transform: capitalize;
-	font-family: 'Source Sans Pro', sans-serif;
+	
 	color: #707070;
 	font-weight: 600;
 	padding: 10px 0px 19px;
@@ -8422,7 +8423,7 @@ ul{
 	font-weight: 600;
 	color: #222222;
 	text-transform: capitalize;
-	font-family: 'Lato', sans-serif;
+	
 }
 .woocommerce-cart .cart_table tr td .item_quantity{
 	margin: 0 auto;
@@ -9379,9 +9380,8 @@ ul{
 	.agri_boy_image{
 		left: 0;
 	}
-	.agri_team_section .agri_team_block > .agri_team_image > img{
-		max-width: 100%;
-	}
+	
+	
 	.index_v3 .clv_right_header .clv_menu .clv_menu_nav > ul > li{
 		margin: 0;
 	}
@@ -11446,6 +11446,46 @@ ul{
 
 }
 
-/********************************************************
-39. Responsive CSS End
-*******************************************************/  
+.main-heading {
+	color: black;
+	padding-bottom: 50px;
+}
+.main-heading h1 {
+	font-weight: bold;
+}
+.agri_team_image img {
+	width: 100%;
+	height: 100%;
+}
+.devagiri-font {
+	font-family: 'Shivaji01';
+	font-size: 25px;
+}
+/* Track */
+
+::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+	background: #757575;
+	/* box-shadow: inset 0 0 5px grey; */
+	border-radius: 10px !important;
+  }
+  
+  /* Handle */
+  
+  ::-webkit-scrollbar-thumb {
+	background: #1fa12e;
+	border-radius: 5px;
+  }
+  
+  /* Handle on hover */
+  
+  ::-webkit-scrollbar-thumb:hover {
+	background: #1fa12e;
+  }
+  html {
+	scroll-behavior: smooth !important;
+  }
