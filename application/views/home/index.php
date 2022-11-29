@@ -187,64 +187,79 @@
 the nutrients that our body needs. It is rich in proteins 60 to 75%, minerals, vitamins, antioxidants and iron, so NASA & WHO has called it as Super Food. As it is rich in nutrients and easy to carry, astronauts complete their missions by eating spirulina.
  Spirulina is potent anti-inflammatory, potent antioxidant, potent antiallergic. Here are few more benefits and uses of Spirulina:
 								</p>
+								1. Always getting sick, repeated infections, & weak immunity, it boosts immunity.\n
+2. General Weakness, feeling lack of energy, limb pain.\n
+3. Persistent Allergic Cold\n
+4. Anemia\n
+5. To reduce body fat & cholesterol\n
+6. prevent cancer, as it is extremely rich in antioxidants\n
+7. To reduce various types of inflammations in the body.\n
+8. Prevent hypertension & Diabetes\n
+9. To lose weight, increases metabolism and maintain healthy appetite\n
+10. Removes toxins and harmful substances from the body and protects the liver\n
+11. Increases memory.\n
+12. Improves vision.\n
+13. Stops the growth of HIV.\n
+14. Reduces the risk of paralysis and seizures.\n
+15. Reduces stress and prevents depression.\n
+16. Antiaging, maintain skin glow& texture.\n
+17. To get calcium, vitamin K, E as well as abundant protein.\n
+18. Prevent growth retardation in young children & prevent malnutrituion.\n
+19. Disorders of digestive system, relieves constipation & Gases trouble.\n
+20. Prevent Hairfall.\n
 							</div>
 							<div id="info" class="tab-pane fade">
 								<ul class="additional_info">
-									<li>
-										<span class="info_head">size -</span>
-										4 cm x 20 cm
-									</li>
-									<li>
-										<span class="info_head">system rating -</span>
-										high
-									</li>
-									<li>
-										<span class="info_head">color -</span>
-										brown
-									</li>
-									<li>
-										<span class="info_head">material -</span>
-										pump
-									</li>
-									<li>
-										<span class="info_head">model number -</span>
-										GT 15014G
-									</li>
-									<li>
-										<span class="info_head">generic name -</span>
-										pump
-									</li>
+								स्पिरुलिना के उपयोग एंवम लाभ      \n
+\n
+स्पिरुलिना खाना बेहद फायदेमंद है क्योंकी आजकाल हम जो खान खाते हैं वह हमारे शरीर को सभी \n
+पोषक तत्व प्रदान नहीं करता| नासा और जागतिक अरोग्य संघटन ने इसे सुपर फुट करार दिया है क्योंकी यह पोषक तत्वें से \n
+भरपूर है और अंतरिक्ष यात्री स्पिरुलिना खाकर अपने मिशन को अंजाम देते हैं|\n
+१ ) हमेशा बीमार रहना. बारबार, जंतुसंक्रम, इन्फेक्शन व रोग प्रतिकिरक क्षमता कि कमी| यह इम्युनिटी बढता है \n
+२) कमजोरी, गलावट, थकान, हमेशा बदनदर्द, हाथपांव दुःखाना \n
+३) लगातार एलर्जी जुकाम \n
+४) खुन की कमी अनेमिया \n
+५) शरीर की चर्बी को कम करने के लिए तथा कोलेस्टेरॉल घटाने के लिए \n
+६) कैन्सर कर्क रोग न हो इस हेतू यह ऑन्टी औंक्सिडेन्ट से भरपूर .है \n
+७) शरीर में विभिन्न प्रकार कि सुजन को कम करने के लिए|\n
+८) बीपी और शुगर नाहीं बढाना चाहिए|\n
+९) वजन कम करने के लिए| यह मेटाबालिझम बढाता है|\n
+१०) शरीर से विषारी पदार्थो और हानिकारक पदार्थो को निकालता है और लिव्हर की रक्षा करता है|\n
+११। याददाश बढाता है|\n
+१२। द्रुष्टी में सुधार \n
+१३) एचआईवी के मिरगी के दौर रोकता है|\n
+१४) पक्षाघात और दौर की संभावना कम करता है|\n
+१५) तणाव कम करता है और अवसाद को रोकता है \n
+१६) उम्र नहीं देखनी चाहिए स्किन ग्लोईंग  रखता है \n
+१७) कैल्शियम, विटामिन के, ई के साथ-साथ भरपूर मात्रा में प्रोटीन प्राप्त करने के लिए \n
+१८) छोटे बच्चे के विकास वृध्दी  में रुकावट न आए \n
+१९) बाल झडना रोकने के लिए \n
+२०) पाचन संस्था की समस्थाए, गॅस एवं कब्ज\n
+
 								</ul>
 							</div>
 							<div id="review" class="tab-pane fade">
-								<div class="fd_review_wrapper">
-									<h3 class="review_heading">there are no reviews yet.</h3>
-									<h5>be the first to review "this product"</h5>
-									<div class="row">
-										<div class="col-lg-9">
-											<div class="row">
-												<div class="col-md-6">
-													<div class="form_block">
-														<input type="text" class="form_field" placeholder="First Name">
-													</div>
-												</div>
-												<div class="col-md-6">
-													<div class="form_block">
-														<input type="text" class="form_field" placeholder="Email">
-													</div>
-												</div>
-												<div class="col-md-12">
-													<div class="form_block">
-														<textarea placeholder="Your Review" class="form_field"></textarea>
-													</div>
-												</div>
-												<div class="col-md-12">
-													<button class="clv_btn">send</button>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
+							paoYak GaTkaMnaI samaRQd Asao spI$ilanaa ka #aavao: \n
+Aajakala AapNa jao Anna #aatao to Aaplyaa SarIrasa AavaSyak sava- paoYakGaTk dot naahI %yaamaULo spI$laInaa #aaNao A%yaMt fayadoSaIr Aaho. paoYakGaTkMaNaI samaRQd\ AsalyaamaULo naasaanao yaalaa saupr fuT saMbaaoQalao Aaho va AMatraLvaIr ho spI$laInaa #aavaunaca AaplaI maaohImaa par paDtat.\n
+1.naohmaI AajaarI pDNao Jnafo@Sana jaMtUsaMsaga- haoNao raogap`itkark Sa@tI kmaI  AsaNao.\n
+2.ASa@tpNaa kmajaaorI hatpaya AMgaduKI gaLuna jaaNao \n
+3 ,satt haoNaarI AlajaI-caI sadI- saayanasacaa Haasa \n
+4. r@t kmaI AsaNao haoNao \n
+5. SarIratIla carbaI kaolaosTala kmaI krNyaasaazI \n
+6. k^nsar haovaUnayaomhNauna \n
+7. SarIratIla ivaivaQa p`karcaI sauja kmaI krNyaasaazI \n
+8. baIpI va saugar saa#ar vaaZu nayao mhNauna \n
+9. vajana kmaI krNyaasaazI\n
+10. ivaYaarI va hanaIkark t%va GaTk SairratUuna kaZuna Takto va ilavhrcao rxaNa krto \n
+11. smarNaSa@tI vaaZvato \n
+12. dRYTI sauQaarto\n
+13. ecaAayavhIcaI vaaZ qaaMbavato\n
+14.p^ralaosaIsa va A^Tkcaa Qaaoka kmaI krto \n
+15. taNatNaava kmaI krto va iDp` oSana p`itbaMQak\n
+16. vaya idsau nayao vaarQa@ya yaovau nayao mhNauna A@TI yaojaIga\n
+17. k^lasaIyama ivaTamaIna ko, [- tsaoca maubalak p`aoTIna iMmaLvaNyaasaazI\n
+18.lahana maulaaMmaQyao vaaZ KuMTu nayao mhNauna\n
+
 							</div>
 						</div>
 					</div>
