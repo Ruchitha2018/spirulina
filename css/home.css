@@ -1,0 +1,344 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+.section-heading{
+    color:black;
+    font-weight: bold;
+    border-left:4px solid #5b86e5;
+    padding-left: 3px;
+}
+.navbar button.navbar-toggler.ml-auto {
+    background: white !important;
+    border: 1px solid black;
+    border-radius: 0px;
+}
+.product-images img{
+    border:4px solid #5b86e5;
+}
+.section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.section-quote-now{
+    background: linear-gradient(to left, #36d1dc, #5b86e5); 
+    color:white;
+}
+.section-quote-now h6{
+    line-height: 25px;
+}
+.section-quote-now .btn{
+    border:2px solid white;
+    color:white;
+    font-weight: bolder;
+    padding:15px 45px 15px 45px;
+}
+.navbar{
+    border-bottom: 2px solid #36d1dc;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: white !important;
+    /*box-shadow: 0 0.25rem 0.125rem 0 rgba(0,0,0,0.05);*/
+    box-shadow: 0px 0px 20px -8px rgba(0,0,0,0.75);
+}
+.navbar ul li a{
+    color:black !important;
+    font-size:18px;
+}
+.navbar .navbar-brand{
+    border:1px solid black;
+    padding:2px 42px 2px 42px;
+    font-size: 32px;
+    color:black;
+    font-weight: bolder;
+}
+.home-splash-section{
+    background: url("https://www.batten-machinery.com/wp-content/uploads/2018/06/10-1.jpg") center right no-repeat ;
+    color:white;
+    width: 100%;
+}
+.home-splash-section .overlay{
+    background: linear-gradient(300deg, #ffffff00 50%,#36d1dc 22%, #5b86e5 100%)  repeat;
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+.section-splash h1{
+    font-size: 55px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+}
+.section-splash .btn{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color:white;
+    padding: 05px 30px 05px 30px;
+    border-radius: 4px;
+    border:2px solid white;
+    font-size: 19px;
+}
+.section-splash .btn a{
+    color:white !important;
+}
+.section-about h5{
+    line-height: 28px;
+}
+.section-about {
+    background: url("https://www.batten-machinery.com/wp-content/themes/badunjinchukou/images/i-about-bg.jpg") center center no-repeat ;
+    width: 100%;
+}
+.section-about img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.section-about .overlay{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+/**FEATURES**/
+.section-features{
+    /*    background-color: #F3F7F7 !important;*/
+    background: url("../images/service_bg.png") left bottom repeat;
+}
+.section-features .overlay{
+    width: 100%;
+}
+.section-features h6{
+    color:#495057;
+    font-size: 1rem;
+    font-weight: bolder;
+    padding-top: 15px;
+}
+.section-features .features-banner{
+    background: linear-gradient(to left, #36d1dc, #5b86e5); 
+}
+.section-features .features-banner h1{
+    color:white;
+}
+.section-features .features-banner p{
+    color:white;
+    line-height: 24px;
+}
+.section-features img{
+    width:21%;
+}
+.section-features .box{
+    background:white;padding:20px;
+}
+.section-flash{
+    background: #15477a;
+    color:white;
+}
+.section-flash h6{
+    font-size: 18px;
+    line-height: 26px;
+}
+.section-flash .btn{
+    color:white;
+    border:2px solid white;
+    padding:10px 25px 10px 25px;
+    border-radius: 12px;
+}
+/**TWIN SCREW AND BARREL**/
+.twin-screw-and-barrel-splash-section{
+    color:black;
+    width: 100%; 
+    background: linear-gradient(rgba(91,134,229,.1), rgba(54,209,220,.3)), url("../images/twin-screw.jpg") right center no-repeat;
+}
+.twin-screw-and-barrel-splash-section .overlay{
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+.die-head-and-dies-splash-section{
+    color:black;
+    width: 100%; 
+    background: linear-gradient(rgba(91,134,229,.1), rgba(54,209,220,.3)), url("../images/die-splash.jpg") right center no-repeat;
+}
+.die-head-and-dies-splash-section .overlay{
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+.consultancy-splash-section{
+    color:white;
+    width: 100%; 
+    background: linear-gradient(rgba(91,134,229,.1), rgba(54,209,220,.3)), url("../images/consultancy.jpg") center center repeat;
+}
+.consultancy-splash-section .overlay{
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+.contact-splash-section{
+    color:white;
+    width: 100%; 
+    background: linear-gradient(rgba(91,134,229,.1), rgba(54,209,220,.3)), url("../images/contactus.jpg") center center repeat;
+}
+.contact-splash-section .overlay{
+    padding-top: 80px;
+    padding-bottom: 120px;
+}
+.box{
+    background: white;
+    padding:15px;
+    margin-top: 20px;
+    box-shadow: 0 0.25rem 0.125rem 0 rgba(0,0,0,0.025);
+}
+.section-flow-chart img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+}
+.section-flow-chart h4{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+}
+.section-flow-chart .flow-chart-description{
+    background: #E9F7FD;
+    padding:20px;
+}
+.section-flow-chart .flow-chart-description span{
+    font-size: 22px;
+    color:#36d1dc;
+    font-weight: bolder;
+}
+.section-features-models{
+    background: url("../images/service_bg.png") left bottom repeat;
+}
+.section-features-models ul li{
+    line-height: 26px;
+}
+.section-design-and-development{
+    background: url("../images/shape.png") left  no-repeat,url("../images/dots.png") right bottom no-repeat ;
+    width: 100%;
+}
+.section-design-and-development h6{
+    font-size: 18px;
+    line-height: 26px;
+    text-align: justify;
+}
+.section-contact-us{
+    background:  url("../images/service_bg.png") left bottom repeat; 
+}
+.section-contact-us img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.section-consultancy{
+    background: url("../images/service_bg.png") center center  repeat 
+}
+.section-consultancy h6{
+    line-height: 28px;
+    font-size: 18px;
+}
+.section-consultancy h1{
+    font-size: 45px;
+    color: #36d1dc;
+    font-weight: bolder;
+}
+
+.footer{
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3E%3Cg fill='%23f3f7f7' fill-opacity='0.11'%3E%3Cpath fill-rule='evenodd' d='M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E"),linear-gradient(to right, #0f2027, #203a43, #2c5364);  
+    width: 100%;
+    padding-top: 45px;
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.footer h6{
+    padding-top: 15px;
+}
+.footer .fa{
+    color:#5b86e5;
+    font-size: 19px;
+    padding-right: 10px;
+}
+
+
+/***************************************************************************************
+RESPONSIVE
+*****************************************************************************************/
+
+
+/* 
+##Device = Desktops
+##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+
+
+}
+
+/* 
+##Device = Laptops, Desktops
+##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+
+}
+
+/* 
+##Device = Tablets, Ipads (portrait)
+##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+
+}
+
+/* 
+##Device = Tablets, Ipads (landscape)
+##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    .footer img{
+        display: none;
+    }
+}
+
+/* 
+##Device = Low Resolution Tablets, Mobiles (Landscape)
+##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .footer img{
+        display: none;
+    }
+
+}
+
+/* 
+##Device = Most of the Smartphones Mobiles (Portrait)
+##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .footer img{
+        display: none;
+    }
+
+}
+.clv_logo img {
+    width: 60%;
+    /* height: 60%; */
+}
+
+@media (max-width: 768px) {
+    .clv_left_header {
+        width: 45%;
+        margin: auto;
+    }
+    .clv_logo img {
+        width: 100%;
+        margin: auto;
+    }
+
+}

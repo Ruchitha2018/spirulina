@@ -1,0 +1,28 @@
+body{
+  font-family: 'Nunito', sans-serif !important;
+  background-color: #F3F7F7;
+}
+.navbar{
+  box-shadow: 0 6px 16px 0 rgba(0,0,0,.2);
+  border-radius: 0px;
+}
+.content-card {
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,.1);
+    padding: 30px;
+    background: white;
+}
+.admin-screen{
+  padding-top: 20px;
+}
+.btn{
+  border-radius: 2px;
+}
+label.error {
+    padding: 3px;
+    background: indianred;
+    color: white;
+}
+.box{
+  background: ghostwhite;
+  padding:10px;
+}
